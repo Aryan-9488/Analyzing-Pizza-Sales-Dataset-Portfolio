@@ -1,0 +1,4 @@
+*.sql linguist-detectable=true
+*.xlsx linguist-detectable=true
+*.xlsm linguist-detectable=true
+*.csv linguist-detectable=true
